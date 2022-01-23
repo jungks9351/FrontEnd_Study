@@ -4,9 +4,11 @@
 
 ## HTML (Hyper Text Mark-up Language)
 
-- [주요범위 & 메타데이터](https://github.com/jungks9351/Front-End-Dev/blob/main/HTML/1_%EC%A3%BC%EC%9A%94%EB%B2%94%EC%9C%84%20%26%20%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
+[HTML](https://github.com/jungks9351/Front-End-Dev/tree/main/HTML)
 
-- [콘텐츠 구분]()
+## CSS (Cascading Style Sheets)
+
+[CSS](https://github.com/jungks9351/Front-End-Dev/tree/main/CSS)
 
 ## JavaScript
 
