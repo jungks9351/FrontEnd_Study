@@ -34,6 +34,12 @@
 
 - [객체 프로퍼티 접근](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/6_%EA%B0%9D%EC%B2%B4/%EA%B0%9D%EC%B2%B4%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%A0%91%EA%B7%BC.md)
 
+- [함수](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/7_%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98.md)
+
+- [일급 객체](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/7_%ED%95%A8%EC%88%98/%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
+
 - [스코프](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/8_%EC%8A%A4%EC%BD%94%ED%94%84/%EC%8A%A4%EC%BD%94%ED%94%84%EB%9E%80.md)
+
+- [렉시컬 스코프](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/8_%EC%8A%A4%EC%BD%94%ED%94%84/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 
 - [블록 레벨 스코프, 함수 레벨 스코프](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/8_%EC%8A%A4%EC%BD%94%ED%94%84/%EB%B8%94%EB%A1%9D%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%ED%95%A8%EC%88%98%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
