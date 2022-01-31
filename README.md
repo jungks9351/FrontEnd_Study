@@ -22,6 +22,10 @@
 
 - [변수](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/2_%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98.md)
 
+- [변수의 생명 주기](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/2_%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98%EC%9D%98%20%EC%83%9D%EB%AA%85%20%EC%A3%BC%EA%B8%B0.md)
+
+- [전역 변수의 문제점과 억제법](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/2_%EB%B3%80%EC%88%98/%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90%EA%B3%BC%20%EC%96%B5%EC%A0%9C%EB%B2%95.md)
+
 - [연산자](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/3_%EC%97%B0%EC%82%B0%EC%9E%90/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 
 - [표현식과 문](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/4_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8/%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)
