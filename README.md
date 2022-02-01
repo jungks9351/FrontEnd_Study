@@ -14,6 +14,8 @@
 
 - [자바스크립트란](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/0_%EC%A0%95%EC%9D%98/JavaScript%EB%9E%80.md)
 
+- [인터프리터 언어 vs 컴파일 언어](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/0_%EC%A0%95%EC%9D%98/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%EC%96%B8%EC%96%B4%20vs%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%96%B8%EC%96%B4.md)
+
 - [데이터타입](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 
 - [타입 변환](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md)
@@ -47,3 +49,5 @@
 - [렉시컬 스코프](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/8_%EC%8A%A4%EC%BD%94%ED%94%84/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 
 - [블록 레벨 스코프, 함수 레벨 스코프](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/8_%EC%8A%A4%EC%BD%94%ED%94%84/%EB%B8%94%EB%A1%9D%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%ED%95%A8%EC%88%98%20%EB%A0%88%EB%B2%A8%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
+
+- [프로토타입 과 상속](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/9_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%83%81%EC%86%8D.md)
