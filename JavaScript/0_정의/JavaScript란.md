@@ -52,7 +52,7 @@ HTML, CSS와 함께 웹을 구성하는 요소 중 하나로, 웹 브라우저�
 
 - 프로토타입 기반 객체 지향 언어
 - [정적언어와 동적언어](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/1_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EC%A0%95%EC%A0%81%EC%96%B8%EC%96%B4%EC%99%80%20%EB%8F%99%EC%A0%81%EC%96%B8%EC%96%B4.md)
-- 인터프리터 언어와 컴파일 언어의 차이점
+- [인터프리터 언어와 컴파일 언어의 차이점](https://github.com/jungks9351/Front-End-Dev/blob/main/JavaScript/0_%EC%A0%95%EC%9D%98/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%EC%96%B8%EC%96%B4%20vs%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%96%B8%EC%96%B4.md)
   => 컴파일러, 인터프리터의 차이를 명확하게
 
 ### 📚Reference
@@ -61,3 +61,4 @@ HTML, CSS와 함께 웹을 구성하는 요소 중 하나로, 웹 브라우저�
 - [MDN](https://developer.mozilla.org/ko/)
 - https://poiemaweb.com/js-introduction
 - https://oowgnoj.dev/review/advanced-js-1
+- 모던 자바스크립트 Deep Dive - 이웅모
