@@ -4,18 +4,12 @@
 
 ## [HTML (Hyper Text Mark-up Language)](https://github.com/jungks9351/Front-End-Dev/tree/main/HTML)
 
-<br>
-
 ## [CSS (Cascading Style Sheets)](https://github.com/jungks9351/Front-End-Dev/tree/main/CSS)
-
-<br>
 
 ## [JavaScript](https://github.com/jungks9351/Front-End-Dev/tree/main/JavaScript)
 
-<br>
+## [TypeScript](https://github.com/jungks9351/Front-End-Dev/tree/main/TypeScript)
 
 ## [React](https://github.com/jungks9351/Front-End-Dev/tree/main/React)
-
-<br>
 
 ## [Web](https://github.com/jungks9351/Front-End-Dev/tree/main/Web)
