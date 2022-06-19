@@ -142,3 +142,5 @@ Styled-components
 npm i styled-components
 npm i -D @types/styled-components
 ```
+
+- https://styled-components.com/docs/api#typescript
