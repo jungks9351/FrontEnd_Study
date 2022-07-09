@@ -1,16 +1,25 @@
 import styled from 'styled-components';
 
-interface TextType {
-  Webpack: string;
-  Babel: string;
-  TyepScript: string;
-  StyledComponents: string;
+interface SkillsType {
+  webpack: string;
+  babel: string;
+  typeScript: string;
+  styledComponents: string;
 }
 
 const App = () => {
-  console.log(1);
+  const skills: SkillsType = {
+    webpack: 'Webpack',
+    babel: 'Babel',
+    typeScript: 'TyepScript',
+    styledComponents: 'Styled-components',
+  };
 
-  return <Text>Hello Webpack,Babel,TypeScript,Styled-components</Text>;
+  return (
+    <Text>
+      Hello {skills.webpack},{skills.babel},{skills.typeScript},{skills.styledComponents}
+    </Text>
+  );
 };
 
 const Text = styled.h1`
