@@ -67,7 +67,7 @@ Component 가 사라질 시점
 
 - state, lifeCycle 관련 기능사용 불가능
   - Hook을 통해 해결
-- 메모리 자원을 함수형 컴포넌트보다 덜 사용한다.
+- 메모리 자원을 클래스형 컴포넌트보다 덜 사용한다.
 - 컴포넌트 선언이 편하다.
 
 ## Class형 컴포넌트 라이프 사이클
@@ -139,7 +139,7 @@ class ClassComponent extends React.Component {
     };
     return (
       <div>
-        <h1 style={style} ref={(ref) => (this.myRef = ref)}>
+        <h1 style={style} ref={ref => (this.myRef = ref)}>
           {this.state.number}
         </h1>
         <p>color : {this.state.color}</p>
@@ -166,7 +166,7 @@ const FunctionalComponent = () => {
   const [name, setName] = useState('');
   const [visible, setVisible] = useState(false);
 
-  const onChnageName = (e) => {
+  const onChnageName = e => {
     setName(e.target.value);
   };
 
