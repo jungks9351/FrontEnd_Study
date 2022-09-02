@@ -12,4 +12,4 @@
 
 ## [React](https://github.com/jungks9351/Front-End-Dev/tree/main/React)
 
-## [Web](https://github.com/jungks9351/Front-End-Dev/tree/main/Web)
+## [CS (Computer Science)](https://github.com/jungks9351/Front-End-Dev/tree/main/Computer%20Science)
