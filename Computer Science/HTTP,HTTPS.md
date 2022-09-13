@@ -10,14 +10,6 @@ HTTP는 인터넷에서 하이퍼 텍스트를 교환하기 위한 통신 규약
 
 HTTP는 애플리케이션 레벨의 프로토콜로 TCP/IP 위에서 작동합니다. HTTP는 상태를 가지고 있지 않는 무상태(Stateless) 프로토콜이며 Method, Path, Version, Headers, Body 등으로 구성됩니다.
 
-요청 의 예
-
-![HTTP 요청](https://mdn.mozillademos.org/files/13687/HTTP_Request.png)
-
-응답의 예
-
-![HTTP 응답](https://mdn.mozillademos.org/files/13691/HTTP_Response.png)
-
 ### HTTP 1.0 과 HTTP1.1 차이
 
 1. 커넥션 유지
