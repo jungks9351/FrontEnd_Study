@@ -266,3 +266,8 @@ const element = {
 ```
 
 React는 이러한 객체를 읽고 DOM을 구성하고 최신으로 유지하는 데 이러한 객체를 사용합니다.
+
+## 참고
+
+- https://ko.reactjs.org/docs/rendering-elements.html
+- https://velog.io/@gyumin_2/React-JSX%EB%9E%80%EC%A0%95%EC%9D%98-%EC%9E%A5%EC%A0%90-%EB%AC%B8%EB%B2%95-%ED%8A%B9%EC%A7%95-%EB%93%B1
