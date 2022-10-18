@@ -12,4 +12,7 @@
 
 - [쿠키, 세션, 웹스토리지](https://github.com/jungks9351/FrontEnd_Study/blob/main/Network/Docs/%EC%BF%A0%ED%82%A4%20%EC%84%B8%EC%85%98%20%EC%9B%B9%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80.md)
 
+### API
+
 - [API](https://github.com/jungks9351/FrontEnd_Study/blob/main/Network/Docs/API.md)
+- [REST API](https://github.com/jungks9351/FrontEnd_Study/blob/main/Network/Docs/REST%20API.md)
