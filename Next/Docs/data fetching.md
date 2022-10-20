@@ -1,4 +1,4 @@
-# Next.js getStaticProps vs getServerSideProps
+# Next.js data fetching
 
 ## getStaticProps
 
@@ -44,11 +44,11 @@ Next.js 는 브라우저에 렌더링 할 때 기본적으로 pre-redering(사�
 
 #### SSG
 
-HTML을 빌드 타임에 각 페이지별로 생성하고 해당 페이지로 요청이 올 경우 이미 생성된 HTML 문서를 반환한다.
+HTML을 빌드 타임에 각 페이지별로 생성하고 해당 페이지로 요청이 올 경우 이미 생성된 HTML 문서를 반환합니다ㅏ.
 
 #### SSR
 
-요청이 올 때 마다 해당하는 HTML 문서를 그때 그때 생성하여 반환한다.
+요청이 올 때 마다 해당하는 HTML 문서를 그때 그때 생성하여 반환합니다.
 
 ## 참고
 
