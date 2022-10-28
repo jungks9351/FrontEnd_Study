@@ -11,3 +11,17 @@
 ## SEO
 
 - [SEO](https://github.com/jungks9351/FrontEnd_Study/blob/main/Next/Docs/SEO.md)
+
+## Next.js 13
+
+### 업데이트
+
+```bash
+npm i next@latest react@latest react-dom@latest eslint-config-next@latest
+```
+
+- [app/directory](https://github.com/jungks9351/FrontEnd_Study/blob/main/Next/Docs/Next.js13/app%E2%81%84directory.md)
+
+### 참고
+
+- https://nextjs.org/blog/next-13
