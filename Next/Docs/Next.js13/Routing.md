@@ -1,8 +1,8 @@
-## Next.js 13 app/directory
+## Next.js 13 Routing
 
 ### 클라이언트 JS의 수를 줄이기 위해
 
-랜더링 시 JS수의 수가 줄어든다면 랜더링 속도를 향상 시켰습니다.
+랜더링 시 JS수의 수가 줄여 랜더링 속도를 향상 시켰습니다.
 
 - app/Directory(Beta)
   - Layouts
@@ -11,7 +11,9 @@
 
 12버젼에서는 pages 폴더를 사용하였지만 13버전에서는 app 폴더를 사용합니다.
 
-#### Layouts
+아직 pages를 사용하여도 무관합니다.
+
+### Config
 
 next.config.js 에 experimental: { appDir: true }를 추가하여 줍니다.
 
@@ -26,6 +28,8 @@ const nextConfig = {
 module.exports = nextConfig;
 ```
 
+### Routing
+
 루트에서 pages 폴더를 지운 뒤 app 폴더를 추가하여 layout.tsx와 page.tsx 파일들를 추가하였습니다.
 
 page.tsx를 추가해야지만 layout.tsx를 정의할 수 있습니다.
@@ -34,9 +38,10 @@ page.tsx를 추가해야지만 layout.tsx를 정의할 수 있습니다.
 
 layout 을 통해 공통 요소, 테스트 및 스타일 경로를 배치할 수 있습니다.
 
-- app/layout.tsx
+#### app/layout.tsx
 
 ```tsx
+import Link from 'next/link';
 import { ReactNode } from 'react';
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
@@ -48,7 +53,12 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
         <link rel='icon' href='/favicon.ico' />
       </head>
       <body>
-        <header>Header</header>
+        <header>
+          <nav>
+            <Link href={'/'}>Home</Link>
+            <Link href={'/blog'}>Blog</Link>
+          </nav>
+        </header>
         <section>{children}</section>
         <footer>Footer</footer>
       </body>
@@ -59,14 +69,14 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
 export default RootLayout;
 ```
 
-- app/page.tsx
+#### app/page.tsx
 
 ```tsx
-const Page = () => {
+const HomePage = () => {
   return <div>Hello Next.js 13!</div>;
 };
 
-export default Page;
+export default HomePage;
 ```
 
 #### React Server Components
