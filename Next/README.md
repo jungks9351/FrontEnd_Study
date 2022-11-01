@@ -20,7 +20,7 @@
 npm i next@latest react@latest react-dom@latest eslint-config-next@latest
 ```
 
-- [app/directory](https://github.com/jungks9351/FrontEnd_Study/blob/main/Next/Docs/Next.js13/app%E2%81%84directory.md)
+- [Routing](https://github.com/jungks9351/FrontEnd_Study/blob/main/Next/Docs/Next.js13/Routing.md)
 
 ### 참고
 
